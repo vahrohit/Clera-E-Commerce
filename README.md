@@ -1,1 +1,1 @@
-## Full stack E-commerce ( fashion ) Website using MERN Stack 
+## Full stack E-commerce ( fashion ) Website using MERN Stack ( React and MongoDB ).
